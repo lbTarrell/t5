@@ -2,7 +2,30 @@
   "items": [
     {
       "type": "text",
-      "content": "Hello world!"
+      "content": "\u8cb7\u4e00\u9001\u4e00github",
+      "x": 530,
+      "y": 80,
+      "font_family": "Rockwell Extra Bold",
+      "font_size": 40,
+      "color": "#E98072"
+    },
+    {
+      "type": "text",
+      "content": "\u9d28\u5c4e\u9999\u98a8\u5473github",
+      "x": 130,
+      "y": 80,
+      "font_family": "Rockwell Extra Bold",
+      "font_size": 40,
+      "color": "#C54433"
+    },
+    {
+      "type": "text",
+      "content": "\u6ab8\u6aac\u8336github",
+      "x": 150,
+      "y": 130,
+      "font_family": "Rockwell Extra Bold",
+      "font_size": 40,
+      "color": "#C54433"
     }
   ]
 }
