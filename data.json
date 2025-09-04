@@ -14,7 +14,7 @@
       "x": 150,
       "y": 70,
       "font_family": "Rockwell Extra Bold",
-      "font_size": 45,
+      "font_size": 40,
       "color": "#333333"
     },
     {
@@ -23,17 +23,17 @@
       "x": 150,
       "y": 120,
       "font_family": "Rockwell Extra Bold",
-      "font_size": 45,
+      "font_size": 40,
       "color": "#333333"
     },
     {
       "type": "text",
       "content": "\u8cb7\u4e09\u9001\u4e00",
-      "x": 550,
-      "y": 90,
+      "x": 150,
+      "y": 170,
       "font_family": "Rockwell Extra Bold",
-      "font_size": 50,
-      "color": "#FF0000"
+      "font_size": 40,
+      "color": "#333333"
     }
   ]
 }
