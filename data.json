@@ -19,11 +19,18 @@
     {
       "type": "text",
       "content": "\u8cb7\u4e00\u9001\u4e00",
-      "x": 530,
-      "y": 80,
+      "x": 496,
+      "y": 75,
       "font_family": "Rockwell Extra Bold",
       "font_size": 40,
-      "color": "#E98072"
+      "color": "#723C1A",
+      "styles": [
+        {
+          "start": 2,
+          "end": 3,
+          "font_size": 60
+        }
+      ]
     },
     {
       "type": "text",
