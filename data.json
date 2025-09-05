@@ -19,10 +19,10 @@
     {
       "type": "text",
       "content": "\u9d28\u5c4e\u9999\u98a8\u5473",
-      "x": 200,
-      "y": 70,
+      "x": 250,
+      "y": 100,
       "font_family": "Rockwell Extra Bold",
-      "font_size": 50,
+      "font_size": 40,
       "color": "#333333"
     },
     {
@@ -31,21 +31,21 @@
       "x": 450,
       "y": 100,
       "font_family": "Rockwell Extra Bold",
-      "font_size": 60,
+      "font_size": 40,
       "color": "#333333"
     },
     {
       "type": "text",
       "content": "\u8cb7\u4e09\u9001\u4e8c",
       "x": 650,
-      "y": 70,
+      "y": 100,
       "font_family": "Rockwell Extra Bold",
-      "font_size": 50,
+      "font_size": 40,
       "color": "#FF0000",
       "rangeFontSize": {
         "start": 0,
         "end": 2,
-        "font_size": 70
+        "font_size": 50
       },
       "stroke": {
         "color": "#FFFFFF",
