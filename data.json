@@ -30,7 +30,12 @@
           "end": 3,
           "font_size": 60
         }
-      ]
+      ],
+      "stroke": {
+        "color": "#FFFFFF",
+        "weight": 5,
+        "align": "OUTSIDE"
+      }
     },
     {
       "type": "text",
