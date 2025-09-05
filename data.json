@@ -24,13 +24,11 @@
       "font_family": "Rockwell Extra Bold",
       "font_size": 40,
       "color": "#723C1A",
-      "styles": [
-        {
-          "start": 2,
-          "end": 3,
-          "font_size": 60
-        }
-      ],
+      "styles": {
+        "start": 2,
+        "end": 3,
+        "font_size": 60
+      },
       "stroke": {
         "color": "#FFFFFF",
         "weight": 5,
