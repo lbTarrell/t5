@@ -23,7 +23,8 @@
       "y": 80,
       "font_family": "Rockwell Extra Bold",
       "font_size": 40,
-      "color": "#333333"
+      "color": "#333333",
+      "rotation": 0
     },
     {
       "type": "text",
@@ -32,7 +33,8 @@
       "y": 130,
       "font_family": "Rockwell Extra Bold",
       "font_size": 40,
-      "color": "#333333"
+      "color": "#333333",
+      "rotation": 0
     },
     {
       "type": "text",
@@ -41,16 +43,17 @@
       "y": 90,
       "font_family": "Rockwell Extra Bold",
       "font_size": 40,
-      "color": "#FF0000",
+      "color": "#E60012",
+      "rotation": 0,
       "rangeFontSize": {
-        "start": 0,
-        "end": 1,
-        "font_size": 50
+        "start": 2,
+        "end": 4,
+        "font_size": 60
       },
-      "rangeFontColor": {
-        "start": 0,
-        "end": 1,
-        "color": "#FF0000"
+      "stroke": {
+        "color": "#FFFFFF",
+        "weight": 3,
+        "align": "OUTSIDE"
       }
     },
     {
