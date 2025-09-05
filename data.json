@@ -37,9 +37,9 @@
     },
     {
       "type": "button",
-      "label": "Click Me",
-      "x": 100,
-      "y": 150
+      "label": "\u524d\u5f80\u8cfc\u8cb7",
+      "x": 700,
+      "y": 0
     }
   ]
 }
