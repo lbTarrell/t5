@@ -23,25 +23,28 @@
       "y": 80,
       "font_family": "Rockwell Extra Bold",
       "font_size": 40,
-      "color": "#E98072"
+      "color": "#E98072",
+      "rotation": 9.81
     },
     {
       "type": "text",
       "content": "\u9d28\u5c4e\u9999\u98a8\u5473",
-      "x": 130,
-      "y": 80,
+      "x": 127.36,
+      "y": 61.58,
       "font_family": "Rockwell Extra Bold",
       "font_size": 40,
-      "color": "#C54433"
+      "color": "#C54433",
+      "rotation": 9.81
     },
     {
       "type": "text",
       "content": "\u6ab8\u6aac\u8336",
-      "x": 150,
-      "y": 130,
+      "x": 167,
+      "y": 125,
       "font_family": "Rockwell Extra Bold",
       "font_size": 40,
-      "color": "#C54433"
+      "color": "#C54433",
+      "rotation": 0
     },
     {
       "type": "button",
