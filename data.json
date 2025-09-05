@@ -37,7 +37,7 @@
     },
     {
       "type": "button",
-      "label": "\u524d\u5f80\u8cfc\u8cb7",
+      "label": ">> ",
       "x": 700,
       "y": 0
     }
