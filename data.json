@@ -43,7 +43,12 @@
       "font_family": "Rockwell Extra Bold",
       "font_size": 40,
       "color": "#C54433",
-      "rotation": 9.81
+      "rotation": 9.81,
+      "rangeFontColor": {
+        "start": 3,
+        "end": 5,
+        "color": "#724D48"
+      }
     },
     {
       "type": "text",
