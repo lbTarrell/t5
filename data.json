@@ -38,8 +38,8 @@
     {
       "type": "text",
       "content": "\u9d28\u5c4e\u9999\u98a8\u5473",
-      "x": 134,
-      "y": 64,
+      "x": 141,
+      "y": 84,
       "font_family": "Rockwell Extra Bold",
       "font_size": 40,
       "color": "#C54433",
@@ -53,8 +53,8 @@
     {
       "type": "text",
       "content": "\u6ab8\u6aac\u8336",
-      "x": 174,
-      "y": 138,
+      "x": 179,
+      "y": 132,
       "font_family": "Rockwell Extra Bold",
       "font_size": 40,
       "color": "#C54433",
